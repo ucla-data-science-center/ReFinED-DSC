@@ -1,5 +1,5 @@
 # ReFinED
-Original can be found [here]([url](https://github.com/amazon-science/ReFinED)).
+Original can be found [here](https://github.com/amazon-science/ReFinED)
 ## Quickstart
 ```commandline
 pip install https://github.com/amazon-science/ReFinED/archive/refs/tags/V1.zip
